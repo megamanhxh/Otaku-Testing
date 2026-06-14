@@ -20,17 +20,17 @@ You can install this addon via the repository to enable **automatic updates**.
 _Note: Some updates may require rebuilding the database._
 
 ### 📥 Install via Repository (Recommended)
-1. **Download repository**: [repository.otaku.testing.zip](https://github.com/Goldenfreddy0703/repository.otaku.testing/blob/master/repository.otaku.testing-1.0.zip?raw=true)
+1. **Download repository**: [repository.otaku.testing.zip](https://github.com/megamanhxh/repository.otaku.testing/blob/master/repository.otaku.testing-1.0.zip?raw=true)
 2. **Install via Kodi File Manager**:
-   - Add this source: `https://goldenfreddy0703.github.io/repository.otaku.testing`
+   - Add this source: `https://megamanhxh.github.io/repository.otaku.testing`
 3. Install the repository and get automatic updates.
 
 ### 🛠️ Manual Installation (Not Recommended)
 _Only use this if absolutely necessary. Future updates should be installed via the repository._
 
 1. **Install dependencies in order**:
-   - [Context Menu Addon](https://github.com/Goldenfreddy0703/repository.otaku.testing/raw/master/repo/zips/context.otaku.testing/context.otaku.testing-1.0.25.zip)
-   - [Otaku Testing Addon](https://github.com/Goldenfreddy0703/repository.otaku.testing/raw/master/repo/zips/plugin.video.otaku.testing/plugin.video.otaku.testing-5.1.68.zip)
+   - [Context Menu Addon](https://github.com/megamanhxh/repository.otaku.testing/raw/master/repo/zips/context.otaku.testing/context.otaku.testing-1.0.25.zip)
+   - [Otaku Testing Addon](https://github.com/megamanhxh/repository.otaku.testing/raw/master/repo/zips/plugin.video.otaku.testing/plugin.video.otaku.testing-5.1.68.zip)
 
 2. **Clear Cache & Rebuild Database**  
    _After each update, it is recommended to clear the cache and rebuild the database to ensure all changes take effect._
@@ -41,7 +41,7 @@ _Only use this if absolutely necessary. Future updates should be installed via t
 
 Having issues? Check out these resources:
 
-- 📖 [Otaku Wiki](https://github.com/Goldenfreddy0703/Otaku-Testing/wiki)  
+- 📖 [Otaku Wiki](https://github.com/megamanhxh/Otaku-Testing/wiki)  
 - 💬 **Need Help?** Feel free to contact me via **Discord** or **Keybase** (details below).
 
 ---
